@@ -1,0 +1,2444 @@
+{
+	"插入 abap 代码块": {
+		"scope": "markdown",
+		"prefix": "md-abap",
+		"body": [
+			"```abap",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 actionscript3 代码块": {
+		"scope": "markdown",
+		"prefix": "md-actionscript-3",
+		"body": [
+			"```actionscript-3",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 ada 代码块": {
+		"scope": "markdown",
+		"prefix": "md-ada",
+		"body": [
+			"```ada",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 apache 代码块": {
+		"scope": "markdown",
+		"prefix": "md-apache",
+		"body": [
+			"```apache",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 apex 代码块": {
+		"scope": "markdown",
+		"prefix": "md-apex",
+		"body": [
+			"```apex",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 apl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-apl",
+		"body": [
+			"```apl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 applescript 代码块": {
+		"scope": "markdown",
+		"prefix": "md-applescript",
+		"body": [
+			"```applescript",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 ara 代码块": {
+		"scope": "markdown",
+		"prefix": "md-ara",
+		"body": [
+			"```ara",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 asm 代码块": {
+		"scope": "markdown",
+		"prefix": "md-asm",
+		"body": [
+			"```asm",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 astro 代码块": {
+		"scope": "markdown",
+		"prefix": "md-astro",
+		"body": [
+			"```astro",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 awk 代码块": {
+		"scope": "markdown",
+		"prefix": "md-awk",
+		"body": [
+			"```awk",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 ballerina 代码块": {
+		"scope": "markdown",
+		"prefix": "md-ballerina",
+		"body": [
+			"```ballerina",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 ba 代码块": {
+		"scope": "markdown",
+		"prefix": "md-ba",
+		"body": [
+			"```ba",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 batch 代码块": {
+		"scope": "markdown",
+		"prefix": "md-batch",
+		"body": [
+			"```batch",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 beancount 代码块": {
+		"scope": "markdown",
+		"prefix": "md-beancount",
+		"body": [
+			"```beancount",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 berry 代码块": {
+		"scope": "markdown",
+		"prefix": "md-berry",
+		"body": [
+			"```berry",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 be 代码块": {
+		"scope": "markdown",
+		"prefix": "md-be",
+		"body": [
+			"```be",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 bibtex 代码块": {
+		"scope": "markdown",
+		"prefix": "md-bibtex",
+		"body": [
+			"```bibtex",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 bicep 代码块": {
+		"scope": "markdown",
+		"prefix": "md-bicep",
+		"body": [
+			"```bicep",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 blade 代码块": {
+		"scope": "markdown",
+		"prefix": "md-blade",
+		"body": [
+			"```blade",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 c 代码块": {
+		"scope": "markdown",
+		"prefix": "md-c",
+		"body": [
+			"```c",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 cadence 代码块": {
+		"scope": "markdown",
+		"prefix": "md-cadence",
+		"body": [
+			"```cadence",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 cdc 代码块": {
+		"scope": "markdown",
+		"prefix": "md-cdc",
+		"body": [
+			"```cdc",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 clarity 代码块": {
+		"scope": "markdown",
+		"prefix": "md-clarity",
+		"body": [
+			"```clarity",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 clojure 代码块": {
+		"scope": "markdown",
+		"prefix": "md-clojure",
+		"body": [
+			"```clojure",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 clj 代码块": {
+		"scope": "markdown",
+		"prefix": "md-clj",
+		"body": [
+			"```clj",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 cmake 代码块": {
+		"scope": "markdown",
+		"prefix": "md-cmake",
+		"body": [
+			"```cmake",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 cobol 代码块": {
+		"scope": "markdown",
+		"prefix": "md-cobol",
+		"body": [
+			"```cobol",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 codeql 代码块": {
+		"scope": "markdown",
+		"prefix": "md-codeql",
+		"body": [
+			"```codeql",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 ql 代码块": {
+		"scope": "markdown",
+		"prefix": "md-ql",
+		"body": [
+			"```ql",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 coffee 代码块": {
+		"scope": "markdown",
+		"prefix": "md-coffee",
+		"body": [
+			"```coffee",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 cpp 代码块": {
+		"scope": "markdown",
+		"prefix": "md-cpp",
+		"body": [
+			"```cpp",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 c++ 代码块": {
+		"scope": "markdown",
+		"prefix": "md-c++",
+		"body": [
+			"```c++",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 crystal 代码块": {
+		"scope": "markdown",
+		"prefix": "md-crystal",
+		"body": [
+			"```crystal",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 csharp 代码块": {
+		"scope": "markdown",
+		"prefix": "md-csharp",
+		"body": [
+			"```csharp",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 c# 代码块": {
+		"scope": "markdown",
+		"prefix": "md-c#",
+		"body": [
+			"```c#",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 cs 代码块": {
+		"scope": "markdown",
+		"prefix": "md-cs",
+		"body": [
+			"```cs",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 css 代码块": {
+		"scope": "markdown",
+		"prefix": "md-css",
+		"body": [
+			"```css",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 cue 代码块": {
+		"scope": "markdown",
+		"prefix": "md-cue",
+		"body": [
+			"```cue",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 cypher 代码块": {
+		"scope": "markdown",
+		"prefix": "md-cypher",
+		"body": [
+			"```cypher",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 cql 代码块": {
+		"scope": "markdown",
+		"prefix": "md-cql",
+		"body": [
+			"```cql",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 d 代码块": {
+		"scope": "markdown",
+		"prefix": "md-d",
+		"body": [
+			"```d",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 dart 代码块": {
+		"scope": "markdown",
+		"prefix": "md-dart",
+		"body": [
+			"```dart",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 dax 代码块": {
+		"scope": "markdown",
+		"prefix": "md-dax",
+		"body": [
+			"```dax",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 diff 代码块": {
+		"scope": "markdown",
+		"prefix": "md-diff",
+		"body": [
+			"```diff",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 docker 代码块": {
+		"scope": "markdown",
+		"prefix": "md-docker",
+		"body": [
+			"```docker",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 dockerfile 代码块": {
+		"scope": "markdown",
+		"prefix": "md-dockerfile",
+		"body": [
+			"```dockerfile",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 dreamMaker 代码块": {
+		"scope": "markdown",
+		"prefix": "md-dream-maker",
+		"body": [
+			"```dream-maker",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 elixir 代码块": {
+		"scope": "markdown",
+		"prefix": "md-elixir",
+		"body": [
+			"```elixir",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 elm 代码块": {
+		"scope": "markdown",
+		"prefix": "md-elm",
+		"body": [
+			"```elm",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 erb 代码块": {
+		"scope": "markdown",
+		"prefix": "md-erb",
+		"body": [
+			"```erb",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 erlang 代码块": {
+		"scope": "markdown",
+		"prefix": "md-erlang",
+		"body": [
+			"```erlang",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 erl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-erl",
+		"body": [
+			"```erl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 fish 代码块": {
+		"scope": "markdown",
+		"prefix": "md-fish",
+		"body": [
+			"```fish",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 fsharp 代码块": {
+		"scope": "markdown",
+		"prefix": "md-fsharp",
+		"body": [
+			"```fsharp",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 f# 代码块": {
+		"scope": "markdown",
+		"prefix": "md-f#",
+		"body": [
+			"```f#",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 fs 代码块": {
+		"scope": "markdown",
+		"prefix": "md-fs",
+		"body": [
+			"```fs",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 gdresource 代码块": {
+		"scope": "markdown",
+		"prefix": "md-gdresource",
+		"body": [
+			"```gdresource",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 gdscript 代码块": {
+		"scope": "markdown",
+		"prefix": "md-gdscript",
+		"body": [
+			"```gdscript",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 gdshader 代码块": {
+		"scope": "markdown",
+		"prefix": "md-gdshader",
+		"body": [
+			"```gdshader",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 gherkin 代码块": {
+		"scope": "markdown",
+		"prefix": "md-gherkin",
+		"body": [
+			"```gherkin",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 gitCommit 代码块": {
+		"scope": "markdown",
+		"prefix": "md-git-commit",
+		"body": [
+			"```git-commit",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 gitRebase 代码块": {
+		"scope": "markdown",
+		"prefix": "md-git-rebase",
+		"body": [
+			"```git-rebase",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 glimmerJs 代码块": {
+		"scope": "markdown",
+		"prefix": "md-glimmer-js",
+		"body": [
+			"```glimmer-js",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 gjs 代码块": {
+		"scope": "markdown",
+		"prefix": "md-gjs",
+		"body": [
+			"```gjs",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 glimmer-ts 代码块": {
+		"scope": "markdown",
+		"prefix": "md-glimmer-ts",
+		"body": [
+			"```glimmer-ts",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 gts 代码块": {
+		"scope": "markdown",
+		"prefix": "md-gts",
+		"body": [
+			"```gts",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 glsl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-glsl",
+		"body": [
+			"```glsl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 gnuplot 代码块": {
+		"scope": "markdown",
+		"prefix": "md-gnuplot",
+		"body": [
+			"```gnuplot",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 go 代码块": {
+		"scope": "markdown",
+		"prefix": "md-go",
+		"body": [
+			"```go",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 graphql 代码块": {
+		"scope": "markdown",
+		"prefix": "md-graphql",
+		"body": [
+			"```graphql",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 gql 代码块": {
+		"scope": "markdown",
+		"prefix": "md-gql",
+		"body": [
+			"```gql",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 groovy 代码块": {
+		"scope": "markdown",
+		"prefix": "md-groovy",
+		"body": [
+			"```groovy",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 hack 代码块": {
+		"scope": "markdown",
+		"prefix": "md-hack",
+		"body": [
+			"```hack",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 haml 代码块": {
+		"scope": "markdown",
+		"prefix": "md-haml",
+		"body": [
+			"```haml",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 handlebars 代码块": {
+		"scope": "markdown",
+		"prefix": "md-handlebars",
+		"body": [
+			"```handlebars",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 hbs 代码块": {
+		"scope": "markdown",
+		"prefix": "md-hbs",
+		"body": [
+			"```hbs",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 haskell 代码块": {
+		"scope": "markdown",
+		"prefix": "md-haskell",
+		"body": [
+			"```haskell",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 hs 代码块": {
+		"scope": "markdown",
+		"prefix": "md-hs",
+		"body": [
+			"```hs",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 hcl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-hcl",
+		"body": [
+			"```hcl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 hjson 代码块": {
+		"scope": "markdown",
+		"prefix": "md-hjson",
+		"body": [
+			"```hjson",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 hlsl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-hlsl",
+		"body": [
+			"```hlsl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 html 代码块": {
+		"scope": "markdown",
+		"prefix": "md-html",
+		"body": [
+			"```html",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 http 代码块": {
+		"scope": "markdown",
+		"prefix": "md-http",
+		"body": [
+			"```http",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 imba 代码块": {
+		"scope": "markdown",
+		"prefix": "md-imba",
+		"body": [
+			"```imba",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 ini 代码块": {
+		"scope": "markdown",
+		"prefix": "md-ini",
+		"body": [
+			"```ini",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 properties 代码块": {
+		"scope": "markdown",
+		"prefix": "md-properties",
+		"body": [
+			"```properties",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 java 代码块": {
+		"scope": "markdown",
+		"prefix": "md-java",
+		"body": [
+			"```java",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 javascript 代码块": {
+		"scope": "markdown",
+		"prefix": "md-javascript",
+		"body": [
+			"```javascript",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 js 代码块": {
+		"scope": "markdown",
+		"prefix": "md-js",
+		"body": [
+			"```js",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 jinjaHtml 代码块": {
+		"scope": "markdown",
+		"prefix": "md-jinja-html",
+		"body": [
+			"```jinja-html",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 jison 代码块": {
+		"scope": "markdown",
+		"prefix": "md-jison",
+		"body": [
+			"```jison",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 json 代码块": {
+		"scope": "markdown",
+		"prefix": "md-json",
+		"body": [
+			"```json",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 json5 代码块": {
+		"scope": "markdown",
+		"prefix": "md-json5",
+		"body": [
+			"```json5",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 jsonc 代码块": {
+		"scope": "markdown",
+		"prefix": "md-jsonc",
+		"body": [
+			"```jsonc",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 jsonl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-jsonl",
+		"body": [
+			"```jsonl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 jsonnet 代码块": {
+		"scope": "markdown",
+		"prefix": "md-jsonnet",
+		"body": [
+			"```jsonnet",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 jssm 代码块": {
+		"scope": "markdown",
+		"prefix": "md-jssm",
+		"body": [
+			"```jssm",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 fsl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-fsl",
+		"body": [
+			"```fsl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 jsx 代码块": {
+		"scope": "markdown",
+		"prefix": "md-jsx",
+		"body": [
+			"```jsx",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 julia 代码块": {
+		"scope": "markdown",
+		"prefix": "md-julia",
+		"body": [
+			"```julia",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 kotlin 代码块": {
+		"scope": "markdown",
+		"prefix": "md-kotlin",
+		"body": [
+			"```kotlin",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 kt 代码块": {
+		"scope": "markdown",
+		"prefix": "md-kt",
+		"body": [
+			"```kt",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 kts 代码块": {
+		"scope": "markdown",
+		"prefix": "md-kts",
+		"body": [
+			"```kts",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 kusto 代码块": {
+		"scope": "markdown",
+		"prefix": "md-kusto",
+		"body": [
+			"```kusto",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 kql 代码块": {
+		"scope": "markdown",
+		"prefix": "md-kql",
+		"body": [
+			"```kql",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 latex 代码块": {
+		"scope": "markdown",
+		"prefix": "md-latex",
+		"body": [
+			"```latex",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 less 代码块": {
+		"scope": "markdown",
+		"prefix": "md-less",
+		"body": [
+			"```less",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 liquid 代码块": {
+		"scope": "markdown",
+		"prefix": "md-liquid",
+		"body": [
+			"```liquid",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 lisp 代码块": {
+		"scope": "markdown",
+		"prefix": "md-lisp",
+		"body": [
+			"```lisp",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 logo 代码块": {
+		"scope": "markdown",
+		"prefix": "md-logo",
+		"body": [
+			"```logo",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 lua 代码块": {
+		"scope": "markdown",
+		"prefix": "md-lua",
+		"body": [
+			"```lua",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 make 代码块": {
+		"scope": "markdown",
+		"prefix": "md-make",
+		"body": [
+			"```make",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 makefile 代码块": {
+		"scope": "markdown",
+		"prefix": "md-makefile",
+		"body": [
+			"```makefile",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 markdown 代码块": {
+		"scope": "markdown",
+		"prefix": "md-markdown",
+		"body": [
+			"```markdown",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 md 代码块": {
+		"scope": "markdown",
+		"prefix": "md-md",
+		"body": [
+			"```md",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 marko 代码块": {
+		"scope": "markdown",
+		"prefix": "md-marko",
+		"body": [
+			"```marko",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 matlab 代码块": {
+		"scope": "markdown",
+		"prefix": "md-matlab",
+		"body": [
+			"```matlab",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 mdc 代码块": {
+		"scope": "markdown",
+		"prefix": "md-mdc",
+		"body": [
+			"```mdc",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 mdx 代码块": {
+		"scope": "markdown",
+		"prefix": "md-mdx",
+		"body": [
+			"```mdx",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 mermaid 代码块": {
+		"scope": "markdown",
+		"prefix": "md-mermaid",
+		"body": [
+			"```mermaid",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 mojo 代码块": {
+		"scope": "markdown",
+		"prefix": "md-mojo",
+		"body": [
+			"```mojo",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 narrat 代码块": {
+		"scope": "markdown",
+		"prefix": "md-narrat",
+		"body": [
+			"```narrat",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 nar 代码块": {
+		"scope": "markdown",
+		"prefix": "md-nar",
+		"body": [
+			"```nar",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 nextflow 代码块": {
+		"scope": "markdown",
+		"prefix": "md-nextflow",
+		"body": [
+			"```nextflow",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 nf 代码块": {
+		"scope": "markdown",
+		"prefix": "md-nf",
+		"body": [
+			"```nf",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 nginx 代码块": {
+		"scope": "markdown",
+		"prefix": "md-nginx",
+		"body": [
+			"```nginx",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 nim 代码块": {
+		"scope": "markdown",
+		"prefix": "md-nim",
+		"body": [
+			"```nim",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 nix 代码块": {
+		"scope": "markdown",
+		"prefix": "md-nix",
+		"body": [
+			"```nix",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 objectiveC 代码块": {
+		"scope": "markdown",
+		"prefix": "md-objective-c",
+		"body": [
+			"```objective-c",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 objc 代码块": {
+		"scope": "markdown",
+		"prefix": "md-objc",
+		"body": [
+			"```objc",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 objectiveCpp 代码块": {
+		"scope": "markdown",
+		"prefix": "md-objective-cpp",
+		"body": [
+			"```objective-cpp",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 ocaml 代码块": {
+		"scope": "markdown",
+		"prefix": "md-ocaml",
+		"body": [
+			"```ocaml",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 pascal 代码块": {
+		"scope": "markdown",
+		"prefix": "md-pascal",
+		"body": [
+			"```pascal",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 perl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-perl",
+		"body": [
+			"```perl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 php 代码块": {
+		"scope": "markdown",
+		"prefix": "md-php",
+		"body": [
+			"```php",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 plsql 代码块": {
+		"scope": "markdown",
+		"prefix": "md-plsql",
+		"body": [
+			"```plsql",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 postcss 代码块": {
+		"scope": "markdown",
+		"prefix": "md-postcss",
+		"body": [
+			"```postcss",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 powerquery 代码块": {
+		"scope": "markdown",
+		"prefix": "md-powerquery",
+		"body": [
+			"```powerquery",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 powershell 代码块": {
+		"scope": "markdown",
+		"prefix": "md-powershell",
+		"body": [
+			"```powershell",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 ps 代码块": {
+		"scope": "markdown",
+		"prefix": "md-ps",
+		"body": [
+			"```ps",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 ps1 代码块": {
+		"scope": "markdown",
+		"prefix": "md-ps1",
+		"body": [
+			"```ps1",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 prisma 代码块": {
+		"scope": "markdown",
+		"prefix": "md-prisma",
+		"body": [
+			"```prisma",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 prolog 代码块": {
+		"scope": "markdown",
+		"prefix": "md-prolog",
+		"body": [
+			"```prolog",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 proto 代码块": {
+		"scope": "markdown",
+		"prefix": "md-proto",
+		"body": [
+			"```proto",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 pug 代码块": {
+		"scope": "markdown",
+		"prefix": "md-pug",
+		"body": [
+			"```pug",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 jade 代码块": {
+		"scope": "markdown",
+		"prefix": "md-jade",
+		"body": [
+			"```jade",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 puppet 代码块": {
+		"scope": "markdown",
+		"prefix": "md-puppet",
+		"body": [
+			"```puppet",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 purescript 代码块": {
+		"scope": "markdown",
+		"prefix": "md-purescript",
+		"body": [
+			"```purescript",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 python 代码块": {
+		"scope": "markdown",
+		"prefix": "md-python",
+		"body": [
+			"```python",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 py 代码块": {
+		"scope": "markdown",
+		"prefix": "md-py",
+		"body": [
+			"```py",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 r 代码块": {
+		"scope": "markdown",
+		"prefix": "md-r",
+		"body": [
+			"```r",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 raku 代码块": {
+		"scope": "markdown",
+		"prefix": "md-raku",
+		"body": [
+			"```raku",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 perl6 代码块": {
+		"scope": "markdown",
+		"prefix": "md-perl6",
+		"body": [
+			"```perl6",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 razor 代码块": {
+		"scope": "markdown",
+		"prefix": "md-razor",
+		"body": [
+			"```razor",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 reg 代码块": {
+		"scope": "markdown",
+		"prefix": "md-reg",
+		"body": [
+			"```reg",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 rel 代码块": {
+		"scope": "markdown",
+		"prefix": "md-rel",
+		"body": [
+			"```rel",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 riscv 代码块": {
+		"scope": "markdown",
+		"prefix": "md-riscv",
+		"body": [
+			"```riscv",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 rst 代码块": {
+		"scope": "markdown",
+		"prefix": "md-rst",
+		"body": [
+			"```rst",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 ruby 代码块": {
+		"scope": "markdown",
+		"prefix": "md-ruby",
+		"body": [
+			"```ruby",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 rb 代码块": {
+		"scope": "markdown",
+		"prefix": "md-rb",
+		"body": [
+			"```rb",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 rust 代码块": {
+		"scope": "markdown",
+		"prefix": "md-rust",
+		"body": [
+			"```rust",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 rs 代码块": {
+		"scope": "markdown",
+		"prefix": "md-rs",
+		"body": [
+			"```rs",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 sas 代码块": {
+		"scope": "markdown",
+		"prefix": "md-sas",
+		"body": [
+			"```sas",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 sass 代码块": {
+		"scope": "markdown",
+		"prefix": "md-sass",
+		"body": [
+			"```sass",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 scala 代码块": {
+		"scope": "markdown",
+		"prefix": "md-scala",
+		"body": [
+			"```scala",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 scheme 代码块": {
+		"scope": "markdown",
+		"prefix": "md-scheme",
+		"body": [
+			"```scheme",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 scss 代码块": {
+		"scope": "markdown",
+		"prefix": "md-scss",
+		"body": [
+			"```scss",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 shaderlab 代码块": {
+		"scope": "markdown",
+		"prefix": "md-shaderlab",
+		"body": [
+			"```shaderlab",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 shader 代码块": {
+		"scope": "markdown",
+		"prefix": "md-shader",
+		"body": [
+			"```shader",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 shellscript 代码块": {
+		"scope": "markdown",
+		"prefix": "md-shellscript",
+		"body": [
+			"```shellscript",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 bash 代码块": {
+		"scope": "markdown",
+		"prefix": "md-bash",
+		"body": [
+			"```bash",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 sh 代码块": {
+		"scope": "markdown",
+		"prefix": "md-sh",
+		"body": [
+			"```sh",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 shell 代码块": {
+		"scope": "markdown",
+		"prefix": "md-shell",
+		"body": [
+			"```shell",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 zsh 代码块": {
+		"scope": "markdown",
+		"prefix": "md-zsh",
+		"body": [
+			"```zsh",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 shellsession 代码块": {
+		"scope": "markdown",
+		"prefix": "md-shellsession",
+		"body": [
+			"```shellsession",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 console 代码块": {
+		"scope": "markdown",
+		"prefix": "md-console",
+		"body": [
+			"```console",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 smalltalk 代码块": {
+		"scope": "markdown",
+		"prefix": "md-smalltalk",
+		"body": [
+			"```smalltalk",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 solidity 代码块": {
+		"scope": "markdown",
+		"prefix": "md-solidity",
+		"body": [
+			"```solidity",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 sparql 代码块": {
+		"scope": "markdown",
+		"prefix": "md-sparql",
+		"body": [
+			"```sparql",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 splunk 代码块": {
+		"scope": "markdown",
+		"prefix": "md-splunk",
+		"body": [
+			"```splunk",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 spl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-spl",
+		"body": [
+			"```spl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 sql 代码块": {
+		"scope": "markdown",
+		"prefix": "md-sql",
+		"body": [
+			"```sql",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 sshConfig 代码块": {
+		"scope": "markdown",
+		"prefix": "md-ssh-config",
+		"body": [
+			"```ssh-config",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 stata 代码块": {
+		"scope": "markdown",
+		"prefix": "md-stata",
+		"body": [
+			"```stata",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 stylus 代码块": {
+		"scope": "markdown",
+		"prefix": "md-stylus",
+		"body": [
+			"```stylus",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 styl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-styl",
+		"body": [
+			"```styl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 svelte 代码块": {
+		"scope": "markdown",
+		"prefix": "md-svelte",
+		"body": [
+			"```svelte",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 swift 代码块": {
+		"scope": "markdown",
+		"prefix": "md-swift",
+		"body": [
+			"```swift",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 systemVerilog 代码块": {
+		"scope": "markdown",
+		"prefix": "md-system-verilog",
+		"body": [
+			"```system-verilog",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 tasl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-tasl",
+		"body": [
+			"```tasl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 tcl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-tcl",
+		"body": [
+			"```tcl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 tex 代码块": {
+		"scope": "markdown",
+		"prefix": "md-tex",
+		"body": [
+			"```tex",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 toml 代码块": {
+		"scope": "markdown",
+		"prefix": "md-toml",
+		"body": [
+			"```toml",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 tsx 代码块": {
+		"scope": "markdown",
+		"prefix": "md-tsx",
+		"body": [
+			"```tsx",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 turtle 代码块": {
+		"scope": "markdown",
+		"prefix": "md-turtle",
+		"body": [
+			"```turtle",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 twig 代码块": {
+		"scope": "markdown",
+		"prefix": "md-twig",
+		"body": [
+			"```twig",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 typescript 代码块": {
+		"scope": "markdown",
+		"prefix": "md-typescript",
+		"body": [
+			"```typescript",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 ts 代码块": {
+		"scope": "markdown",
+		"prefix": "md-ts",
+		"body": [
+			"```ts",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 v 代码块": {
+		"scope": "markdown",
+		"prefix": "md-v",
+		"body": [
+			"```v",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 vb 代码块": {
+		"scope": "markdown",
+		"prefix": "md-vb",
+		"body": [
+			"```vb",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 cmd 代码块": {
+		"scope": "markdown",
+		"prefix": "md-cmd",
+		"body": [
+			"```cmd",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 verilog 代码块": {
+		"scope": "markdown",
+		"prefix": "md-verilog",
+		"body": [
+			"```verilog",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 vhdl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-vhdl",
+		"body": [
+			"```vhdl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 viml 代码块": {
+		"scope": "markdown",
+		"prefix": "md-viml",
+		"body": [
+			"```viml",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 vim 代码块": {
+		"scope": "markdown",
+		"prefix": "md-vim",
+		"body": [
+			"```vim",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 vimscript 代码块": {
+		"scope": "markdown",
+		"prefix": "md-vimscript",
+		"body": [
+			"```vimscript",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 vueHtml 代码块": {
+		"scope": "markdown",
+		"prefix": "md-vue-html",
+		"body": [
+			"```vue-html",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 vue 代码块": {
+		"scope": "markdown",
+		"prefix": "md-vue",
+		"body": [
+			"```vue",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 vyper 代码块": {
+		"scope": "markdown",
+		"prefix": "md-vyper",
+		"body": [
+			"```vyper",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 vy 代码块": {
+		"scope": "markdown",
+		"prefix": "md-vy",
+		"body": [
+			"```vy",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 wasm 代码块": {
+		"scope": "markdown",
+		"prefix": "md-wasm",
+		"body": [
+			"```wasm",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 wenyan 代码块": {
+		"scope": "markdown",
+		"prefix": "md-wenyan",
+		"body": [
+			"```wenyan",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 文言 代码块": {
+		"scope": "markdown",
+		"prefix": "md-文言",
+		"body": [
+			"```文言",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 wgsl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-wgsl",
+		"body": [
+			"```wgsl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 wolfram 代码块": {
+		"scope": "markdown",
+		"prefix": "md-wolfram",
+		"body": [
+			"```wolfram",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 xml 代码块": {
+		"scope": "markdown",
+		"prefix": "md-xml",
+		"body": [
+			"```xml",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 xsl 代码块": {
+		"scope": "markdown",
+		"prefix": "md-xsl",
+		"body": [
+			"```xsl",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 yaml 代码块": {
+		"scope": "markdown",
+		"prefix": "md-yaml",
+		"body": [
+			"```yaml",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 yml 代码块": {
+		"scope": "markdown",
+		"prefix": "md-yml",
+		"body": [
+			"```yml",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 zenscript 代码块": {
+		"scope": "markdown",
+		"prefix": "md-zenscript",
+		"body": [
+			"```zenscript",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	},
+	"插入 zig 代码块": {
+		"scope": "markdown",
+		"prefix": "md-zig",
+		"body": [
+			"```zig",
+			"$1",
+			"```",
+			""
+		],
+		"description": ""
+	}
+}

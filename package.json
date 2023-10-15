@@ -1,0 +1,36 @@
+{
+  "name": "markdown-code-blocks",
+  "displayName": "Markdown Code Blocks",
+  "icon": "logo@0.25x.png",
+  "version": "1.0.0",
+  "description": "Generate a Markdown code block using code-snippets.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keystion/vscode-markdown-code-snippets.git"
+  },
+  "keywords": [
+    "vscode",
+    "extension"
+  ],
+  "author": "Yantao Shang",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Keystion/vscode-markdown-code-snippets/issues"
+  },
+  "homepage": "https://github.com/Keystion/vscode-markdown-code-snippets#readme",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "markdown",
+        "path": "snippets.json"
+      }
+    ]
+  },
+  "publisher": "Yantao Shang"
+}
