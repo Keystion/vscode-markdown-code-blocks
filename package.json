@@ -2,7 +2,7 @@
   "name": "markdown-code-blocks",
   "displayName": "Markdown Code Blocks",
   "icon": "logo@0.25x.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a Markdown code block using code-snippets.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,6 +24,10 @@
   "engines": {
     "vscode": "^1.60.0"
   },
+  "main": "extension.js",
+  "activationEvents": [
+    "onStartupFinished"
+  ],
   "contributes": {
     "snippets": [
       {
@@ -32,5 +36,8 @@
       }
     ]
   },
-  "publisher": "YantaoShang"
+  "publisher": "YantaoShang",
+  "devDependencies": {
+    "vscode": "^1.1.37"
+  }
 }
