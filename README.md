@@ -13,7 +13,7 @@
 
 ## 预览
 
-![VScode Markdown Code Blocks Preview](https://github.com/Keystion/vscode-markdown-code-blocks/blob/main/preview.gif)
+![VScode Markdown Code Blocks Preview](preview.gif)
 
 ## 开始使用
 
