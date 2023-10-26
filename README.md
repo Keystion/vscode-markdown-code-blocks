@@ -1,5 +1,10 @@
 # VScode Markdown Code Blocks
 
+[![Version](https://img.shields.io/vscode-marketplace/v/YantaoShang.markdown-code-blocks.svg?style=flat-square&label=VScode%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=YantaoShang.markdown-code-blocks)
+[![Installs](https://img.shields.io/vscode-marketplace/d/YantaoShang.markdown-code-blocks.svg?style=flat-square&label=Installs)](https://marketplace.visualstudio.com/items?itemName=YantaoShang.markdown-code-blocks)
+[![GitHub stars](https://img.shields.io/github/stars/Keystion/vscode-markdown-code-blocks.svg?style=flat-square&label=GitHub%20stars)](https://github.com/Keystion/vscode-markdown-code-blocks)
+[![GitHub Contributors](https://img.shields.io/github/contributors/Keystion/vscode-markdown-code-blocks.svg?style=flat-square&label=GitHub%20Contributors)](https://github.com/Keystion/vscode-markdown-code-blocks/graphs/contributors)
+
 使用 VScode `*.code-snippets` 生成 Markdown 代码块。
 
 ````markdown
